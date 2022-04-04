@@ -1,0 +1,39 @@
+* {
+    background-color: #DAF7A6;
+    font-weight: bold;
+    
+}
+
+h1 {
+    text-align: center;
+    background-color: lightgrey;
+    color: #97145E;
+    border-color: green;
+    border-style: solid;
+}
+
+h2 {
+    text-align: center;
+    background-color: lightgrey;
+    color: #FF5733;
+}
+
+section p,ul {
+    color: blue;
+    text-align: center;
+    font-size: 1.4em;
+    font-family: 'BIZ UDMincho', serif;
+
+}
+
+img { 
+    margin: 0 auto;
+    width: 50%;
+    height: 50%;
+    display:block;
+    margin:auto;
+}
+
+i {
+    color: black;
+}
